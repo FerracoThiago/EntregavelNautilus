@@ -1,0 +1,6 @@
+
+services:
+  neofatch:
+    image: ubuntu
+    restart: always
+    build: .
